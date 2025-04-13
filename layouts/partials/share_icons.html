@@ -1,14 +1,11 @@
 {{ if .Params.share }}
 <div class="share-icons">
     <span class="share-label">Share:</span>
-    <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" rel="nofollow" aria-label="Share on Twitter">
+    <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" rel="me" aria-label="Share on Twitter">
         <span class="share-icon">Twitter</span>
     </a>
-    <a href="https://t.me/share/url?url={{ .Permalink }}&text={{ .Title }}" rel="nofollow" aria-label="Share on Telegram">
+    <a href="https://t.me/share/url?url={{ .Permalink }}&text={{ .Title }}" rel="me" aria-label="Share on Telegram">
         <span class="share-icon">Telegram</span>
-    </a>
-    <a href="https://www.reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}" rel="nofollow" aria-label="Share on Reddit">
-        <span class="share-icon">Reddit</span>
     </a>
 </div>
 {{ end }} 
