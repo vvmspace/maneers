@@ -1,4 +1,4 @@
-baseURL = "https://maneers.netlify.app/"
+baseURL = "https://xmr2usdt.netlify.app/"
 languageCode = "en-us"
 title = "Monero Exchange Guides"
 theme = "PaperMod"
@@ -57,7 +57,7 @@ tocopen = false
 [params.schema]
 type = "Organization"
 name = "Monero Exchange Guides"
-url = "https://maneers.netlify.app/"
+url = "https://xmr2usdt.netlify.app/"
 logo = "/images/logo.png"
 description = "Comprehensive guides for exchanging Monero (XMR) to various cryptocurrencies and fiat currencies"
 
