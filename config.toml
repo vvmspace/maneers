@@ -53,6 +53,14 @@ hideSummary = false
 showtoc = true
 tocopen = false
 
+# Schema settings
+[params.schema]
+type = "Organization"
+name = "Monero Exchange Guides"
+url = "https://maneers.netlify.app/"
+logo = "/images/logo.png"
+description = "Comprehensive guides for exchanging Monero (XMR) to various cryptocurrencies and fiat currencies"
+
 [params.homeInfoParams]
 Title = "Welcome to Monero Exchange Guides"
 Content = "Your trusted resource for Monero exchange information"
