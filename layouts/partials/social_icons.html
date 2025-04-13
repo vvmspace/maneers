@@ -1,6 +1,0 @@
-{{- range site.Params.socialIcons }}
-    {{- $icon := (resources.Get (printf "icons/%s.svg" .name)) }}
-    <a href="{{ .url }}" rel="me" title="{{ .name | title }}">
-        <span class="social-icon">{{ .name }}</span>
-    </a>
-{{- end }} 

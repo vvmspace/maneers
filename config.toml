@@ -62,7 +62,7 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowWordCount = true
-ShowRssButtonInSectionTermList = true
+ShowRssButtonInSectionTermList = false
 UseHugoToc = true
 disableSpecial1stPost = false
 disableScrollToTop = false
@@ -93,7 +93,3 @@ threshold = 0.4
 useExtendedSearch = false
 ignoreLocation = false
 ignoreFieldNorm = false
-
-[params.socialIcons]
-telegram = "https://t.me/xmr2usdt"
-twitter = "https://twitter.com/xmr2usdt"
