@@ -1,0 +1,46 @@
+baseURL = "https://moneroexchange.guide/"
+title = "Monero Exchange Guide"
+theme = "PaperMod"
+
+[params]
+env = "production"
+description = "Your comprehensive guide to exchanging Monero (XMR) with other cryptocurrencies"
+keywords = ["monero", "xmr", "cryptocurrency", "exchange", "privacy", "crypto"]
+author = "Monero Exchange Guide"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+Title = "Monero Exchange Guide"
+Content = "Your trusted source for Monero exchange information and guides"
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+[[menu.main]]
+identifier = "exchanges"
+name = "Exchanges"
+url = "/exchanges/"
+weight = 20
+[[menu.main]]
+identifier = "guides"
+name = "Guides"
+url = "/guides/"
+weight = 30
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 40
+
+[params.socialIcons]
+[[params.socialIcons.social]]
+name = "twitter"
+url = "https://twitter.com/yourhandle"

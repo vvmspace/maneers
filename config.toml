@@ -1,0 +1,50 @@
+baseURL = "https://your-site.netlify.app/"
+languageCode = "en-us"
+title = "Monero Exchange Guides"
+theme = "PaperMod"
+
+# Enable features
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+
+# Build settings
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# Output formats
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# Menu
+[menu]
+[[menu.main]]
+identifier = "exchanges"
+name = "Exchanges"
+url = "/exchanges/"
+weight = 10
+
+[[menu.main]]
+identifier = "guides"
+name = "Guides"
+url = "/guides/"
+weight = 20
+
+# Theme settings
+[params]
+env = "production"
+description = "Comprehensive guides for exchanging Monero (XMR) to various cryptocurrencies and fiat currencies"
+keywords = ["monero", "xmr", "exchange", "cryptocurrency", "guide"]
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+# Social links
+[params.social]
+GitHub = "https://github.com/yourusername"
+Twitter = "https://twitter.com/yourusername"
+Email = "mailto:your-email@example.com"
