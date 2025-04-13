@@ -22,13 +22,19 @@ home = ["HTML", "RSS", "JSON"]
 identifier = "exchanges"
 name = "Exchanges"
 url = "/exchanges/"
-weight = 10
+weight = 1
 
 [[menu.main]]
 identifier = "guides"
 name = "Guides"
 url = "/guides/"
-weight = 20
+weight = 2
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
 
 # Theme settings
 [params]
@@ -47,14 +53,17 @@ keywords = [
     "cryptocurrency exchange",
     "usdt exchange",
 ]
-author = "Monero Community"
-DateFormat = "January 2, 2006"
+author = "XMR to USDT Exchange Guide"
+copyright = "© 2025 XMR to USDT Exchange Guide"
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
 disableSpecial1stPost = false
 disableScrollToTop = false
 comments = false
@@ -79,7 +88,12 @@ Content = "Your trusted resource for exchanging Monero to USDT and other cryptoc
 isCaseSensitive = false
 shouldSort = true
 location = 0
-distance = 1000
+distance = 100
 threshold = 0.4
-minMatchCharLength = 0
-keys = ["title", "permalink", "summary", "content"]
+useExtendedSearch = false
+ignoreLocation = false
+ignoreFieldNorm = false
+
+[params.socialIcons]
+telegram = "https://t.me/xmr2usdt"
+twitter = "https://twitter.com/xmr2usdt"
