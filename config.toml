@@ -1,4 +1,4 @@
-baseURL = "https://your-site.netlify.app/"
+baseURL = "https://maneers.netlify.app/"
 languageCode = "en-us"
 title = "Monero Exchange Guides"
 theme = "PaperMod"
@@ -18,7 +18,6 @@ buildExpired = false
 home = ["HTML", "RSS", "JSON"]
 
 # Menu
-[menu]
 [[menu.main]]
 identifier = "exchanges"
 name = "Exchanges"
@@ -34,17 +33,52 @@ weight = 20
 # Theme settings
 [params]
 env = "production"
+title = "Monero Exchange Guides"
 description = "Comprehensive guides for exchanging Monero (XMR) to various cryptocurrencies and fiat currencies"
 keywords = ["monero", "xmr", "exchange", "cryptocurrency", "guide"]
+author = "Monero Community"
+images = ["<link-to-image>"]
+DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = true
+tocopen = false
 
-# Social links
-[params.social]
-GitHub = "https://github.com/yourusername"
-Twitter = "https://twitter.com/yourusername"
-Email = "mailto:your-email@example.com"
+[params.homeInfoParams]
+Title = "Welcome to Monero Exchange Guides"
+Content = "Your trusted resource for Monero exchange information"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/vvmspace"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/vvmspace"
+
+[params.analytics.google]
+SiteVerificationTag = "xyz"
+
+[params.profileMode]
+enabled = false
+
+[params.taxonomy]
+enabled = true
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
