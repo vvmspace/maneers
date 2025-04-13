@@ -1,6 +1,6 @@
-baseURL = "https://xmr2usdt.netlify.app/"
+baseURL = "https://xmr2usdt.com/"
 languageCode = "en-us"
-title = "Monero Exchange Guides"
+title = "XMR to USDT Exchange Guide"
 theme = "PaperMod"
 
 # Enable features
@@ -33,11 +33,21 @@ weight = 20
 # Theme settings
 [params]
 env = "production"
-title = "Monero Exchange Guides"
-description = "Comprehensive guides for exchanging Monero (XMR) to various cryptocurrencies and fiat currencies"
-keywords = ["monero", "xmr", "exchange", "cryptocurrency", "guide"]
+title = "XMR to USDT Exchange Guide"
+description = "The most comprehensive guide for exchanging Monero (XMR) to USDT and other cryptocurrencies"
+keywords = [
+    "xmr to usdt",
+    "monero to usdt",
+    "xmr usdt",
+    "monero usdt",
+    "exchange xmr to usdt",
+    "convert xmr to usdt",
+    "xmr2usdt",
+    "monero exchange",
+    "cryptocurrency exchange",
+    "usdt exchange",
+]
 author = "Monero Community"
-images = ["<link-to-image>"]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 ShowReadingTime = true
@@ -56,15 +66,14 @@ tocopen = false
 # Schema settings
 [params.schema]
 type = "Organization"
-name = "Monero Exchange Guides"
-url = "https://xmr2usdt.netlify.app/"
+name = "XMR to USDT Exchange Guide"
+url = "https://xmr2usdt.com/"
 logo = "/images/logo.png"
-description = "Comprehensive guides for exchanging Monero (XMR) to various cryptocurrencies and fiat currencies"
-sameAs = ["https://github.com/vvmspace", "https://twitter.com/vvmspace"]
+description = "The most comprehensive guide for exchanging Monero (XMR) to USDT and other cryptocurrencies"
 
 [params.homeInfoParams]
-Title = "Welcome to Monero Exchange Guides"
-Content = "Your trusted resource for Monero exchange information"
+Title = "XMR to USDT Exchange Guide"
+Content = "Your trusted resource for exchanging Monero to USDT and other cryptocurrencies"
 
 [params.fuseOpts]
 isCaseSensitive = false
