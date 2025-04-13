@@ -60,27 +60,11 @@ name = "Monero Exchange Guides"
 url = "https://xmr2usdt.netlify.app/"
 logo = "/images/logo.png"
 description = "Comprehensive guides for exchanging Monero (XMR) to various cryptocurrencies and fiat currencies"
+sameAs = ["https://github.com/vvmspace", "https://twitter.com/vvmspace"]
 
 [params.homeInfoParams]
 Title = "Welcome to Monero Exchange Guides"
 Content = "Your trusted resource for Monero exchange information"
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/vvmspace"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/vvmspace"
-
-[params.analytics.google]
-SiteVerificationTag = "xyz"
-
-[params.profileMode]
-enabled = false
-
-[params.taxonomy]
-enabled = true
 
 [params.fuseOpts]
 isCaseSensitive = false
