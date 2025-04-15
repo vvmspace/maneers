@@ -2,7 +2,7 @@
 title: "How to Exchange Monero (XMR) to Binance Coin (BNB) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Binance Coin (BNB). Learn about exchange methods, security measures, and best practices."
-exchange_to: "bnbtrc20"
+exchange_to: "bnbbsc"
 ---
 
 # How to Exchange Monero (XMR) to Binance Coin (BNB) - Complete Guide 2024
