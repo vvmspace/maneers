@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Solana (SOL) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Solana (SOL). Learn about exchange methods, security measures, and best practices."
+exchange_to: "sol"
 ---
 
 # How to Exchange Monero (XMR) to Solana (SOL) - Complete Guide 2024

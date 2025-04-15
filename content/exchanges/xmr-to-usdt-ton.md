@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to USDT-TON - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to USDT-TON. Learn about the TON network, exchange process, and security measures."
+exchange_to: "usdtton"
 ---
 
 # How to Exchange Monero (XMR) to USDT-TON - Complete Guide 2024

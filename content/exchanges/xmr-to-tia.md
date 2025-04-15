@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Celestia (TIA) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Celestia (TIA). Learn about exchange methods, security measures, and TIA's potential as a leading modular blockchain solution."
+exchange_to: "tia"
 ---
 
 # How to Exchange Monero (XMR) to Celestia (TIA) - Complete Guide 2024

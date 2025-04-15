@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Dogecoin (DOGE) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Dogecoin (DOGE). Learn about exchange methods, security measures, and best practices."
+exchange_to: "doge"
 ---
 
 # How to Exchange Monero (XMR) to Dogecoin (DOGE) - Complete Guide 2024

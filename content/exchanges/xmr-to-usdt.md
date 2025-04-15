@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to USDT - Complete Guide 2025"
 date: 2025-01-01
 description: "Step-by-step guide to exchanging Monero (XMR) to USDT. Learn about different USDT networks, exchange methods, and security tips."
+exchange_to: "usdttrc20"
 ---
 
 # How to Exchange Monero (XMR) to USDT - Complete Guide 2025

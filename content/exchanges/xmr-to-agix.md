@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to SingularityNET (AGIX) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to SingularityNET (AGIX). Learn about exchange methods, security measures, and AGIX's potential in decentralized AI marketplace."
+exchange_to: "agix"
 ---
 
 # How to Exchange Monero (XMR) to SingularityNET (AGIX) - Complete Guide 2024

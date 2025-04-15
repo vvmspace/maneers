@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Ocean Protocol (OCEAN) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Ocean Protocol (OCEAN). Learn about exchange methods, security measures, and OCEAN's potential in data and AI markets."
+exchange_to: "ocean"
 ---
 
 # How to Exchange Monero (XMR) to Ocean Protocol (OCEAN) - Complete Guide 2024

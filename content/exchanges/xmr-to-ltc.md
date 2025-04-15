@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Litecoin (LTC) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Litecoin (LTC). Learn about exchange methods, security measures, and best practices."
+exchange_to: "ltc"
 ---
 
 # How to Exchange Monero (XMR) to Litecoin (LTC) - Complete Guide 2024

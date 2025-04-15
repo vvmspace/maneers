@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Render Token (RNDR) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Render Token (RNDR). Learn about exchange methods, security measures, and RNDR's unique features in decentralized rendering."
+exchange_to: "rndr"
 ---
 
 # How to Exchange Monero (XMR) to Render Token (RNDR) - Complete Guide 2024

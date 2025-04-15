@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Ethereum (ETH) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Ethereum (ETH). Learn about exchange methods, security measures, and best practices."
+exchange_to: "eth"
 ---
 
 # How to Exchange Monero (XMR) to Ethereum (ETH) - Complete Guide 2024

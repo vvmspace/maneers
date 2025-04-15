@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Fetch.ai (FET) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Fetch.ai (FET). Learn about exchange methods, security measures, and FET's potential in AI and autonomous agents."
+exchange_to: "fet"
 ---
 
 # How to Exchange Monero (XMR) to Fetch.ai (FET) - Complete Guide 2024

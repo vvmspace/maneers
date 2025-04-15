@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Compound (COMP) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Compound (COMP). Learn about exchange methods, security measures, and best practices."
+exchange_to: "comp"
 ---
 
 # How to Exchange Monero (XMR) to Compound (COMP) - Complete Guide 2024

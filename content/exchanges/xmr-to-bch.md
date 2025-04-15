@@ -2,6 +2,7 @@
 title: "How to Exchange Monero to Bitcoin Cash (XMR to BCH) - Best Rates & Fast Exchange"
 date: 2024-03-21
 description: "Step-by-step guide to exchange Monero to Bitcoin Cash. Learn about the best platforms, rates, and security measures for XMR to BCH exchange."
+exchange_to: "bch"
 ---
 
 # How to Exchange Monero to Bitcoin Cash (XMR to BCH) - Best Rates & Fast Exchange

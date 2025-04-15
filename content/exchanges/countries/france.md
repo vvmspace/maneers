@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) in France - Complete Guide 2025"
 date: 2025-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) in France. Learn about local exchange methods, regulations, and security measures in 2025."
+exchange_to: "eurc"
 ---
 
 # How to Exchange Monero (XMR) in France - Complete Guide 2025

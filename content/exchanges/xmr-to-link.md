@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Chainlink (LINK) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Chainlink (LINK). Learn about exchange methods, security measures, and best practices."
+exchange_to: "link"
 ---
 
 # How to Exchange Monero (XMR) to Chainlink (LINK) - Complete Guide 2024

@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Bitcoin (BTC) - Complete Guide 2025"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Bitcoin (BTC). Learn about exchange methods, security measures, and best practices."
+exchange_to: "btc"
 ---
 
 # How to Exchange Monero (XMR) to Bitcoin (BTC) - Complete Guide 2025

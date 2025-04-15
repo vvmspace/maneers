@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to Optimism (OP) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to Optimism (OP). Learn about exchange methods, security measures, and OP's potential as a leading Layer 2 solution."
+exchange_to: "op"
 ---
 
 # How to Exchange Monero (XMR) to Optimism (OP) - Complete Guide 2024

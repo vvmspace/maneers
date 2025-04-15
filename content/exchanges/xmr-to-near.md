@@ -2,6 +2,7 @@
 title: "How to Exchange Monero (XMR) to NEAR Protocol (NEAR) - Complete Guide 2024"
 date: 2024-03-21
 description: "Step-by-step guide to exchanging Monero (XMR) to NEAR Protocol (NEAR). Learn about exchange methods, security measures, and NEAR's unique features."
+exchange_to: "near"
 ---
 
 # How to Exchange Monero (XMR) to NEAR Protocol (NEAR) - Complete Guide 2024
