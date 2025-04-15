@@ -8,6 +8,18 @@ enableRobotsTXT = true
 enableEmoji = true
 enableGitInfo = true
 
+# Security headers
+[security]
+[security.headers]
+Content-Security-Policy = '''
+default-src 'self';
+script-src 'self' 'unsafe-inline' 'unsafe-eval' https://changenow.io;
+style-src 'self' 'unsafe-inline';
+img-src 'self' data: https://changenow.io;
+frame-src 'self' https://changenow.io;
+connect-src 'self' https://changenow.io;
+'''
+
 # Build settings
 buildDrafts = false
 buildFuture = false
