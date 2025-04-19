@@ -2,7 +2,7 @@
 {{- $defaultTo := "usdttrc20" -}}
 {{- $from := .Params.exchange_from | default $defaultFrom -}}
 {{- $to := .Params.exchange_to | default $defaultTo -}}
-{{- $amount := .Params.exchange_amount | default "0.1" -}}
+{{- $amount := .Params.exchange_amount | default "1" -}}
 {{- $amountFiat := .Params.exchange_amount_fiat | default "1500" -}}
 
 <!-- Debug information -->
