@@ -1,6 +1,6 @@
 baseURL = "https://xmr2usdt.com/"
 languageCode = "en-us"
-title = "XMR to USDT Exchange Guide"
+title = "XMR to USDT Exchange & Guides"
 theme = "PaperMod"
 
 # Enable features
@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "JSON"]
 # Menu
 [[menu.main]]
 identifier = "exchanges"
-name = "Exchanges"
+name = "Exchange"
 url = "/exchanges/"
 weight = 1
 
@@ -47,6 +47,12 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 3
+
+[[menu.main]]
+identifier = "sell"
+name = "Sell"
+url = "/exchanges/xmr-to-usdt/"
+weight = 4
 
 # Theme settings
 [params]
@@ -87,14 +93,14 @@ tocopen = false
 # Schema settings
 [params.schema]
 type = "Organization"
-name = "XMR to USDT Exchange Guide"
+name = "XMR to USDT Exchange"
 url = "https://xmr2usdt.com/"
 logo = "/images/logo.png"
-description = "The most comprehensive guide for exchanging Monero (XMR) to USDT and other cryptocurrencies"
+description = "Sell XMR to USDT. The most comprehensive guide for exchanging Monero (XMR) to USDT and other cryptocurrencies"
 
 [params.homeInfoParams]
 Title = "XMR to USDT Exchange Guide"
-Content = "Your trusted resource for exchanging Monero to USDT and other cryptocurrencies"
+Content = "Sell your Monero to USDT in 5 minutes. Your trusted resource for exchanging Monero to USDT and other cryptocurrencies"
 
 [params.fuseOpts]
 isCaseSensitive = false
