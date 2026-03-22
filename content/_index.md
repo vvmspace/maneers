@@ -9,6 +9,10 @@ canonicalURL: "https://xmr2usdt.com/"
 
 Welcome to the most comprehensive guide for exchanging Monero (XMR) to USDT and other cryptocurrencies. Our platform provides detailed instructions, real-time rates, and secure exchange methods for converting your Monero to USDT and other digital assets.
 
+## XMR to USDT permanent address
+
+Once you exchanged Monero to USDT/USDC/or other cryptocurrencties using widget of our partener (ChangeNOW), your address becomes permant.
+
 ## Quick Links
 
 -   [Exchange Monero to USDT (XMR to USDT)](/exchanges/xmr-to-usdt/)
