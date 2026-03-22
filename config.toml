@@ -1,6 +1,6 @@
 baseURL = "https://xmr2usdt.com/"
 languageCode = "en-us"
-title = "XMR to USDT Exchange & Guides"
+title = "XMR to USDT Exchange with permanent addresses & Guides"
 theme = "PaperMod"
 
 # Enable features
@@ -58,7 +58,7 @@ weight = 4
 [params]
 env = "production"
 title = "XMR to USDT Exchanges"
-description = "Sell XMR to USDT. The most comprehensive guide for exchanging Monero (XMR) to USDT and other cryptocurrencies"
+description = "Sell XMR to USDT using permanent addresses. The most comprehensive guide for exchanging Monero (XMR) to USDT and other cryptocurrencies"
 keywords = [
     "xmr to usdt",
     "monero to usdt",
