@@ -11,7 +11,8 @@ Welcome to the most comprehensive guide for exchanging Monero (XMR) to USDT and 
 
 ## XMR to USDT permanent address
 
-Once you exchanged Monero to USDT/USDC/or other cryptocurrencties using widget of our partener (ChangeNOW), your address becomes permant.
+Once you exchanged Monero to USDT/USDC/or other cryptocurrencties using widget of our partener (ChangeNOW), your address becomes permanentt.
+You can save this permanent address to your address book and use it anytime.
 
 ## Quick Links
 
